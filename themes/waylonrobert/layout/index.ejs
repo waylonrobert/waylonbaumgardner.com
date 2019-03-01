@@ -1,0 +1,54 @@
+<% if (is_home()) { %>
+  <section class="home-intro">
+    <h1>
+      <%= config.description %>
+    </h1>
+  </section>
+
+<div class="home">
+  <section class="work">
+    <h2>Selected Work</h2>
+    <ul>
+      <% site.pages.sort('title').forEach(function(page){ %>
+        <% if (page.home){ %>
+      <li>
+        <a class="fun-hover" href="<%- page.path %>">
+          <%- page.title %>
+        </a>
+        <% if (page.description){ %>
+          <p class="description">
+            <em>
+              <%- page.description %>
+            </em>
+          </p>
+        <% } %>
+      </li>
+      <% } %>
+    <% }) %>
+    </ul>
+  </section>
+
+  <section class="writing">
+    <h2>Writing</h2>
+    <ul>
+      <% site.posts.sort('-date').limit(3).forEach(function(post){ %>
+      <li>
+        <a class="fun-hover" href="<%- post.path %>">
+          <%- post.title %>
+        </a>
+        <p class="date">
+          <em>
+            <%- post.date.format("MMMM Do, YYYY"); %>
+          </em>
+        </p>
+      </li>
+    <% }) %>
+    </ul>
+    <%# <p>
+      <a href="" title="View more blog posts">
+        View More
+      </a>
+    </p> %>
+  </section>
+</div>
+<% } %>

@@ -1,0 +1,5 @@
+menu:
+  Work: /work
+  Writing: /writing
+  Contact: /contact
+rss: /atom.xml

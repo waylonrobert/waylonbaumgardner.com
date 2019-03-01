@@ -1,0 +1,23 @@
+<h1><%- page.title %></h1>
+<%- page.content %>
+<section class="work">
+  <h2>Selected Work</h2>
+  <ul>
+    <% site.pages.forEach(function(page){ %>
+      <% if (page.displayWork){ %>
+    <li>
+      <a class="fun-hover" href="<%- '/' + (page.path) %>">
+        <%- page.title %>
+      </a>
+      <% if (page.description){ %>
+        <p class="description">
+          <em>
+            <%- page.description %>
+          </em>
+        </p>
+      <% } %>
+    </li>
+    <% } %>
+  <% }) %>
+  </ul>
+</section>

@@ -1,0 +1,18 @@
+<header>
+  <div class="header_bg"></div>
+  <h1 class="header-title">
+    <a href="/">
+      <%= config.title %>
+    </a>
+  </h1>
+  <nav id="main-nav">
+    <ul>
+      <% for (var link in theme.menu){ %>
+      <li>
+        <a class="main-nav-link" href="<%- url_for(theme.menu[link]) %>">
+          <%= link %></a>
+        </li>
+      <% } %>
+    </ul>
+  </nav>
+</header>
