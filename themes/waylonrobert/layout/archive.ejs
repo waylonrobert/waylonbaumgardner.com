@@ -1,0 +1,17 @@
+<section class="writing">
+  <h2>Writing</h2>
+  <ul>
+    <% site.posts.sort('-date').forEach(function(post){ %>
+    <li>
+      <a class="fun-hover" href="<%- '/' + (post.path) %>">
+        <%- post.title %>
+      </a>
+      <p class="date">
+        <em>
+          <%- post.date.format("MMMM Do, YYYY"); %>
+        </em>
+      </p>
+    </li>
+  <% }) %>
+  </ul>
+</section>

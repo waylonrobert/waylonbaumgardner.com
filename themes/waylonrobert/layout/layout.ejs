@@ -1,0 +1,9 @@
+<%- partial('_partial/_header-head') %>
+<body id="<% if (is_home()){ %>home<% } else if (is_post()) { %>post<% } else if (is_page()){ %>page<% } %>">
+<%- partial('_partial/_header') %>
+<main>
+  <%- body %>
+</main>
+<%- partial('_partial/_footer', {}, {cache: true}) %>
+</body>
+</html>

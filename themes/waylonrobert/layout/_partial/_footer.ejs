@@ -1,0 +1,9 @@
+<footer>
+  <div class="footer_bg"></div>
+  <%- partial('_partial/_footer-social', {}, {cache: true}) %>
+  <p>
+    <small>
+      Copyright &copy;<%- date(Date.now(), 'YYYY') %> <%= config.title %>.
+    </small>
+  </p>
+</footer>
