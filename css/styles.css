@@ -258,12 +258,12 @@ body#post p.post-intro {
 
 @media screen and (min-width: 1em) and (max-width: 50em) {
   header {
-    height: 25vh;
+    height: 30vh;
     grid-template-areas: "header-a header-b" "header-c header-d";
   }
   header nav {
     grid-column: header-c-start / header-d-end;
-    margin-top: -2.8rem;
+    margin: -4rem auto;
   }
   header nav li a.main-nav-link {
     display:flex;
@@ -346,6 +346,12 @@ body#post p.post-intro {
   }
   header nav {
     grid-area: header-b;
+  }
+}
+
+@media screen and (min-width: 1021px) {
+  header {
+    height: 25vh;
   }
 }
 
