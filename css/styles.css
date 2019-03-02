@@ -292,7 +292,8 @@ body#post p.post-intro {
     text-align: center;
   }
   p,
-  ul li {
+  ul li,
+  ol li {
     font-size: 80%;
   }
   .home-intro h1 {
