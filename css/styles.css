@@ -82,6 +82,10 @@ header nav a {
   text-transform: uppercase;
 }
 
+.hidden {
+  display: none !important;
+}
+
 a.main-nav-link::after {
 	content: '';
 	position: absolute;
