@@ -47,7 +47,7 @@ header {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-areas: "header-a header-b";
-  height: 20vh;
+  height: 30vh;
   overflow: hidden;
   padding: calc(var(--spacing) * 3);
   position: relative;
@@ -348,24 +348,24 @@ body#post p.post-intro {
 }
 
 @media screen and (min-width: 80em) and (max-width: 100em) {
-  header {
+  /* header {
     height: 30vh;
-  }
+  } */
   header nav {
     grid-area: header-b;
   }
 }
 
 @media screen and (min-width: 1021px) and (max-width: 1440px) {
-  header {
-    height: 25vh;
-  }
+  /* header {
+    height: 30vh;
+  } */
 }
 
 @media screen and (min-width: 1441px) {
-  header {
-    height: 25vh;
-  }
+  /* header {
+    height: 30vh;
+  } */
   .social-links {
     padding-top: 15rem;
   }
