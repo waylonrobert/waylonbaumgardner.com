@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Waylon Baumgardner</title>
+  <icon>http://waylonbaumgardner.com/icon.png</icon>
+  
+  <link href="http://waylonbaumgardner.com/atom.xml" rel="self"/>
+  
+  <link href="http://waylonbaumgardner.com/"/>
+  <updated>2020-09-01T07:14:21.401Z</updated>
+  <id>http://waylonbaumgardner.com/</id>
+  
+  <author>
+    <name>Waylon Baumgardner</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test Post 2</title>
+    <link href="http://waylonbaumgardner.com/test-post-2/"/>
+    <id>http://waylonbaumgardner.com/test-post-2/</id>
+    <published>2020-09-01T07:13:50.000Z</published>
+    <updated>2020-09-01T07:14:21.401Z</updated>
+    
+    
+    <summary type="html">Test Post 2</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>A Journey to Better Health</title>
+    <link href="http://waylonbaumgardner.com/a-journey-to-better-health/"/>
+    <id>http://waylonbaumgardner.com/a-journey-to-better-health/</id>
+    <published>2020-08-18T03:17:39.000Z</published>
+    <updated>2020-08-18T06:52:15.380Z</updated>
+    
+    
+    <summary type="html">My journey to improving my physical health.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple&#39;s New Experience Design Ethos</title>
+    <link href="http://waylonbaumgardner.com/apples-new-experience-design-ethos/"/>
+    <id>http://waylonbaumgardner.com/apples-new-experience-design-ethos/</id>
+    <published>2019-06-12T07:36:04.000Z</published>
+    <updated>2019-07-15T00:30:04.117Z</updated>
+    
+    
+    <summary type="html">Apple developed a new UX design ethos that focuses on human connection.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Eight-Hour Workday</title>
+    <link href="http://waylonbaumgardner.com/eight-hour-workday/"/>
+    <id>http://waylonbaumgardner.com/eight-hour-workday/</id>
+    <published>2019-03-11T05:00:49.000Z</published>
+    <updated>2019-03-11T05:21:32.578Z</updated>
+    
+    
+    <summary type="html">Dr. Travis Bradberry wrote an article on Quartz that discussed problems with the eight-hour workday, notably that it is &quot;outdated&quot; and not &quot;effective&quot;.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://waylonbaumgardner.com/hello-world/"/>
+    <id>http://waylonbaumgardner.com/hello-world/</id>
+    <published>2019-03-01T04:36:28.000Z</published>
+    <updated>2019-03-01T07:40:14.020Z</updated>
+    
+    
+    <summary type="html">Welcome to the new version of waylonbaumgardner.com</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Violin Journey</title>
+    <link href="http://waylonbaumgardner.com/my-violin-journey/"/>
+    <id>http://waylonbaumgardner.com/my-violin-journey/</id>
+    <published>2017-09-11T18:15:47.000Z</published>
+    <updated>2019-03-01T04:30:43.554Z</updated>
+    
+    
+    <summary type="html">I started taking violin lessons a year ago. Today I reflect on the experience.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
