@@ -6,7 +6,7 @@
   <link href="http://waylonbaumgardner.com/atom.xml" rel="self"/>
   
   <link href="http://waylonbaumgardner.com/"/>
-  <updated>2020-09-01T07:14:21.401Z</updated>
+  <updated>2020-09-01T19:54:53.553Z</updated>
   <id>http://waylonbaumgardner.com/</id>
   
   <author>
@@ -17,14 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test Post 2</title>
-    <link href="http://waylonbaumgardner.com/test-post-2/"/>
-    <id>http://waylonbaumgardner.com/test-post-2/</id>
-    <published>2020-09-01T07:13:50.000Z</published>
-    <updated>2020-09-01T07:14:21.401Z</updated>
+    <title>Side Projects</title>
+    <link href="http://waylonbaumgardner.com/side-projects/"/>
+    <id>http://waylonbaumgardner.com/side-projects/</id>
+    <published>2020-09-01T19:53:42.000Z</published>
+    <updated>2020-09-01T19:54:53.553Z</updated>
     
     
-    <summary type="html">Test Post 2</summary>
+    <summary type="html">A discussion of side projects.</summary>
     
     
     
