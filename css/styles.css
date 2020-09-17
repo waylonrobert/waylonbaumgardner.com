@@ -38,6 +38,7 @@ p {
 }
 
 em {
+  color: var(--color-gray);
   font-weight: 300;
   font-style: italic;
 }
