@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Waylon Baumgardner</title>
+  <icon>http://waylonbaumgardner.com/icon.png</icon>
+  
+  <link href="http://waylonbaumgardner.com/atom.xml" rel="self"/>
+  
+  <link href="http://waylonbaumgardner.com/"/>
+  <updated>2021-01-22T06:30:18.430Z</updated>
+  <id>http://waylonbaumgardner.com/</id>
+  
+  <author>
+    <name>Waylon Baumgardner</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021</title>
+    <link href="http://waylonbaumgardner.com/2021/"/>
+    <id>http://waylonbaumgardner.com/2021/</id>
+    <published>2021-01-22T06:14:31.000Z</published>
+    <updated>2021-01-22T06:30:18.430Z</updated>
+    
+    
+    <summary type="html">2021</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20 pounds down</title>
+    <link href="http://waylonbaumgardner.com/20-pounds-down/"/>
+    <id>http://waylonbaumgardner.com/20-pounds-down/</id>
+    <published>2020-12-08T07:26:28.000Z</published>
+    <updated>2020-12-08T07:26:32.560Z</updated>
+    
+    
+    <summary type="html">Down 20 pounds.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Side Projects</title>
+    <link href="http://waylonbaumgardner.com/side-projects/"/>
+    <id>http://waylonbaumgardner.com/side-projects/</id>
+    <published>2020-09-01T19:53:42.000Z</published>
+    <updated>2020-09-01T19:54:53.553Z</updated>
+    
+    
+    <summary type="html">A discussion of side projects.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>A Journey to Better Health</title>
+    <link href="http://waylonbaumgardner.com/a-journey-to-better-health/"/>
+    <id>http://waylonbaumgardner.com/a-journey-to-better-health/</id>
+    <published>2020-08-18T03:17:39.000Z</published>
+    <updated>2020-08-18T06:52:15.380Z</updated>
+    
+    
+    <summary type="html">My journey to improving my physical health.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple&#39;s New Experience Design Ethos</title>
+    <link href="http://waylonbaumgardner.com/apples-new-experience-design-ethos/"/>
+    <id>http://waylonbaumgardner.com/apples-new-experience-design-ethos/</id>
+    <published>2019-06-12T07:36:04.000Z</published>
+    <updated>2019-07-15T00:30:04.117Z</updated>
+    
+    
+    <summary type="html">Apple developed a new UX design ethos that focuses on human connection.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Eight-Hour Workday</title>
+    <link href="http://waylonbaumgardner.com/eight-hour-workday/"/>
+    <id>http://waylonbaumgardner.com/eight-hour-workday/</id>
+    <published>2019-03-11T05:00:49.000Z</published>
+    <updated>2019-03-11T05:21:32.578Z</updated>
+    
+    
+    <summary type="html">Dr. Travis Bradberry wrote an article on Quartz that discussed problems with the eight-hour workday, notably that it is &quot;outdated&quot; and not &quot;effective&quot;.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://waylonbaumgardner.com/hello-world/"/>
+    <id>http://waylonbaumgardner.com/hello-world/</id>
+    <published>2019-03-01T04:36:28.000Z</published>
+    <updated>2019-03-01T07:40:14.020Z</updated>
+    
+    
+    <summary type="html">Welcome to the new version of waylonbaumgardner.com</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Violin Journey</title>
+    <link href="http://waylonbaumgardner.com/my-violin-journey/"/>
+    <id>http://waylonbaumgardner.com/my-violin-journey/</id>
+    <published>2017-09-11T18:15:47.000Z</published>
+    <updated>2019-03-01T04:30:43.554Z</updated>
+    
+    
+    <summary type="html">I started taking violin lessons a year ago. Today I reflect on the experience.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
